@@ -5,6 +5,10 @@ html, body, #wrap {
   margin: 0;
 }
 
+#wrap {
+  transition: .3s;
+}
+
 #color-code-area {
   position: fixed;
   top: 50%;
